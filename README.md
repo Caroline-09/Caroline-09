@@ -1,11 +1,11 @@
-<!-- 🌸 Remplace USERNAME par ton pseudo GitHub (une dizaine d'occurrences) -->
+<!-- 🌸 Il ne reste qu'une chose à faire : remplace USERNAME par ton pseudo GitHub (Ctrl+H → "USERNAME") -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Hello%20%F0%9F%8C%B8%20I'm%20Your%20Name&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=D%C3%A9veloppeur%C2%B7se%20cr%C3%A9atif%C2%B7ve%20%E2%80%A2%20Tinkerer%20%E2%80%A2%20Always%20learning&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18&height=220&section=header&text=Hello%20%F0%9F%8C%B8%20I'm%20Caroline&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Cr%C3%A9atrice%20d'apps%2C%20de%20sites%20%26%20de%20jeux%20vid%C3%A9o&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF69B4&center=true&vCenter=true&width=560&lines=Je+code+des+trucs+qui+me+font+plaisir+%F0%9F%92%97;Open+to+collab+%26+nouvelles+id%C3%A9es+%E2%9C%A8;Fait+avec+du+caf%C3%A9+et+beaucoup+de+rose+%F0%9F%8C%B8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=FF69B4&center=true&vCenter=true&width=620&lines=Je+code+des+apps%2C+des+sites+et+des+jeux+%F0%9F%92%97;Pass%C3%A9e+de+Scratch+%C3%A0+Flutter+%E2%9C%A8;Voyage+%E2%80%A2+Code+%E2%80%A2+Auto+%E2%80%A2+Mode+%F0%9F%8C%B8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -21,10 +21,11 @@
 ## 💖 À propos de moi
 
 ```text
-👩‍💻  Ce que je fais      →  [lycéenne, en Terminale]
-🌱  J'apprends          →  [A créer des applications, des sites web et des jeux vidéo]
-💬  Parle-moi de        →  [Voyage, code, automobile, mode]
-⚡  Fun fact            →  [j'ai créer mon premier jeu vidéo sur scratch à 12 ans]
+👩‍💻  Ce que je fais      →  Lycéenne, en Terminale
+🌱  J'apprends          →  À créer des applications, des sites web et des jeux vidéo
+🔨  Je construis        →  Unova & Kaito (deux applications)
+💬  Parle-moi de        →  Voyage, code, automobile, mode
+⚡  Fun fact            →  J'ai créé mon premier jeu vidéo sur Scratch à 12 ans
 ```
 
 ---
@@ -35,16 +36,14 @@
 
 ![Dart](https://img.shields.io/badge/Dart-ff69b4?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-ff1493?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-db7093?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ffb6c1?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-ff85c0?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-ff4fa3?style=for-the-badge&logo=css3&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-db7093?style=for-the-badge&logo=scratch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-c71585?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-ffc0cb?style=for-the-badge&logo=visualstudiocode&logoColor=black)
 
 </div>
-
-> 🌸 Ajoute ou retire des badges sur [shields.io](https://shields.io) / [simpleicons.org](https://simpleicons.org) — garde les couleurs `ff69b4`, `ff1493`, `ffb6c1`, `db7093` pour rester dans le thème.
 
 ---
 
@@ -78,30 +77,30 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌷 Nom du projet 1</h3>
-      <p>Une phrase pour dire ce que fait le projet et pourquoi il est cool.</p>
+      <h3>🌟 Unova</h3>
+      <p>Une application pour donner plus de visibilité aux artistes indépendants et permettre à tout le monde de découvrir les futures stars !</p>
+      <p>
+        <img src="https://img.shields.io/badge/Application-ff69b4?style=flat-square" />
+        <img src="https://img.shields.io/badge/Musique%20%26%20Artistes-ff1493?style=flat-square" />
+      </p>
+      <a href="https://github.com/USERNAME/unova">👉 Voir le dépôt</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💞 Kaito</h3>
+      <p>L'application pour les jeunes couples : elle améliore l'organisation et la communication avec un calendrier, une galerie photo, une to-do list et des notes partagées. Sans oublier les petits widgets : mots d'amour, et la musique que ton/ta partenaire écoute, à commenter !</p>
       <p>
         <img src="https://img.shields.io/badge/Dart-ff69b4?style=flat-square&logo=dart&logoColor=white" />
         <img src="https://img.shields.io/badge/Flutter-ff1493?style=flat-square&logo=flutter&logoColor=white" />
       </p>
-      <a href="https://github.com/USERNAME/projet-1">👉 Voir le dépôt</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎀 Nom du projet 2</h3>
-      <p>Une phrase pour dire ce que fait le projet et pourquoi il est cool.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-db7093?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-ffb6c1?style=flat-square&logoColor=black" />
-      </p>
-      <a href="https://github.com/USERNAME/projet-2">👉 Voir le dépôt</a>
+      <a href="https://github.com/USERNAME/kaito">👉 Voir le dépôt</a>
     </td>
   </tr>
 </table>
 
 <div align="center">
 
-[![Projet 1](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=projet-1&border_color=ff69b4&bg_color=2b0a1f&title_color=ff69b4&icon_color=ff1493&text_color=ffc0cb&border_radius=12)](https://github.com/USERNAME/projet-1)
-[![Projet 2](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=projet-2&border_color=ff69b4&bg_color=2b0a1f&title_color=ff69b4&icon_color=ff1493&text_color=ffc0cb&border_radius=12)](https://github.com/USERNAME/projet-2)
+[![Unova](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=unova&border_color=ff69b4&bg_color=2b0a1f&title_color=ff69b4&icon_color=ff1493&text_color=ffc0cb&border_radius=12)](https://github.com/USERNAME/unova)
+[![Kaito](https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=kaito&border_color=ff69b4&bg_color=2b0a1f&title_color=ff69b4&icon_color=ff1493&text_color=ffc0cb&border_radius=12)](https://github.com/USERNAME/kaito)
 
 </div>
 
@@ -111,8 +110,8 @@
 
 | Date | Nouveauté |
 | :--- | :--- |
-| 🌸 2026-10 | Mise à jour de mon profil GitHub |
-| 💗 _à venir_ | _Ajoute ici tes prochaines étapes_ |
+| 🌸 2026-10 | Nouveau look pour mon profil GitHub |
+| 🎮 _à venir_ | Un jeu pour Nintendo DS |
 
 ---
 
@@ -120,10 +119,8 @@
 
 <div align="center">
 
-[![Mail](https://img.shields.io/badge/Mail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ton.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ff1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
-[![Discord](https://img.shields.io/badge/Discord-db7093?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TON_ID)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ffb6c1?style=for-the-badge&logo=hashnode&logoColor=black)](https://ton-site.example.com)
+[![Mail](https://img.shields.io/badge/Mail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caroline91dg1@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-carotine__09-db7093?style=for-the-badge&logo=discord&logoColor=white)
 
 <br/>
 
